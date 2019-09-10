@@ -1,0 +1,1 @@
+this folder contains info about how to use VI
